@@ -24,7 +24,7 @@ vc <- va * vb
 
 ## b)
 
-log2(15)
+log(15)
 exp <- 8^7
 exp
 
